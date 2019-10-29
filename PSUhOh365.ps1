@@ -25,7 +25,7 @@
 
 param(
     [string]$email,
-    [string]$emaillist,
+    [string]$emaillist
     )
 
 
